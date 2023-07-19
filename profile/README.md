@@ -1,11 +1,11 @@
 <h1 align="center">Flipper-XFW -- The home of everything Xtreme</h1>
 
 <p align="center">
-  <img src="https://github.com/ClaraCrazy/Flipper-Xtreme/assets/55334727/767a3e1b-a96c-43c8-b58f-a49a533b3bb4">
+  <img src="https://github.com/Flipper-XFW/Xtreme-Firmware/assets/55334727/767a3e1b-a96c-43c8-b58f-a49a533b3bb4">
 </p>
 
 <h2 align="center">
- <a href="https://github.com/ClaraCrazy/Flipper-Xtreme">Firmware</a> | <a href="https://flipper-xtre.me">Website</a> | <a href="https://discord.gg/flipper-xtreme">Discord</a> | <a href="https://github.com/ClaraCrazy/Flipper-Xtreme#%EF%B8%8F-support">Donate</a>
+ <a href="https://github.com/Flipper-XFW/Xtreme-Firmware">Firmware</a> | <a href="https://flipper-xtre.me">Website</a> | <a href="https://discord.gg/flipper-xtreme">Discord</a> | <a href="https://github.com/Flipper-XFW/Xtreme-Firmware#%EF%B8%8F-support">Donate</a>
 </h2>
 
 ## ❤️ Support
