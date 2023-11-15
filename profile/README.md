@@ -11,7 +11,7 @@
 ## ❤️ Support
 If you like what you're seeing, **please consider donating to us**. We won't ever put this behind a paywall, but we'd still appreciate a few bucks!
 
-- **[Patreon](https://patreon.com/CynthiaLabs)**: ❤️ Account needed, subscription with perks across my entire org.
+- **[Patreon](https://patreon.com/crazyco)**: ❤️ Account needed, subscription with perks across my entire org.
 - **[Wire-transfer](https://bunq.me/ClaraK)**: No account needed, one-time
 - **[Paypal](https://paypal.me/ClaraCrazy)**: Account needed, one-time
 - **[ko-fi](https://ko-fi.com/cynthialabs)**: No account needed, one-time
